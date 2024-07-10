@@ -1,0 +1,4 @@
+pip install openai==0.28
+pip install pinecone-client
+pip install torch
+pip install transformers
